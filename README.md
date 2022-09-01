@@ -8,4 +8,8 @@ currently looking for the commit button.
 
 have been battling with git since yesterday
 
-# wait
+## wait
+
+## Note
+
+have perfected the process of creating repos
